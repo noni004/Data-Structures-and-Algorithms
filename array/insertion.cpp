@@ -1,3 +1,5 @@
+// Program to insert elements in an array using class and objects
+
 #include<iostream>
 using namespace std;
 
